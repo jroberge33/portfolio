@@ -15,7 +15,7 @@
 
 ## KNN Prediction Model for Bank Failures
 
-#### **Question**: Can we use weather metrics from the NOAA to predict flight delays at Logan Airport in Boston, MA?  
+#### **Question**: Can a KNN classification model be used to predict whether or not a bank will fail based on the bank's financial data and metrics?
 
 #### **Method**: 
 
@@ -23,13 +23,13 @@
 
 ## Boston Marathon Linear Regression and Correlation Analysis 
 
-#### **Question**: Can we use weather metrics from the NOAA to predict flight delays at Logan Airport in Boston, MA?  
+#### **Question**:  
 
 #### **Method**: 
 
 #### **Analysis**: 
 
-## Delta Sigma Pi Interview Scheduling Code
+## Delta Sigma Pi Sigma Omega Application Interview Scheduling Code
 
 #### **Question**: Can a program be used to schedule interviews for the fraternity's rush process, taking into account diversity in the interviewers; schedules of both interviewers and interviewees; and conflicts of interest between interviewers and interviewees?
 
@@ -39,15 +39,15 @@
 
 ## Catan Game Theory and Outcomes Analysis 
 
-#### **Question**: Can we use weather metrics from the NOAA to predict flight delays at Logan Airport in Boston, MA?  
+#### **Question**: Can we gain insights into the outcomes and dynamics of the game of Catan from data on game starting positions and outcomes?
 
 #### **Method**: 
 
 #### **Analysis**: 
 
-## Educational Outcomes and Attainment by Demographic Analysis 
+## Educational Outcomes and Attainment by Demographic Analysis through the COVID-19 Pandemic
 
-#### **Question**: Can we use weather metrics from the NOAA to predict flight delays at Logan Airport in Boston, MA?  
+#### **Question**: Can we produce analytics and visualizations regarding the effect of the COVID-19 pandemic on educational metrics, through the lens of racial groups and states? 
 
 #### **Method**: 
 
