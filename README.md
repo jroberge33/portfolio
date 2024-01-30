@@ -15,6 +15,8 @@
 
 ## KNN Prediction Model for Bank Failures
 
+###https://github.com/jroberge33/portfolio/tree/main/bank_failure_analysis
+
 #### **Question**: Can a KNN classification model be used to predict whether or not a bank will fail based on the bank's financial data and metrics?
 
 #### **Method**: 
