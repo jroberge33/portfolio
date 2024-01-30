@@ -1,21 +1,21 @@
-# Portfolio 
+# Personal Portfolio 
 ## About Me
-#### My name is Jack Roberge; I am a third year studying Math and Data Science at Northeastern University. See a few samples of my work so far below! 
+#### My name is `Jack Roberge`; I am a third year studying `Mathematics and Data Science` at `Northeastern University`. See a few samples of my work so far below! 
 
 ## Climate Data and Flight Delay Prediction Model 
 
 #### **Question**: Can we use weather metrics from the NOAA to predict flight delays at Logan Airport in Boston, MA?  
 
 #### **Method**: 
-- Perform multivariate linear regression with continuous quantitative delay data
-- Perform multiple iterations of a decision tree model using categorical delay data
-- Perform KNN classification to predict high/low monthly flight delay volumes
+- Perform `multivariate linear regression` with continuous quantitative delay data
+- Perform multiple iterations of a `decision tree` model using categorical delay data
+- Perform `KNN classification` to predict high/low monthly flight delay volumes
 
 #### **Analysis**: 
 
 ## KNN Prediction Model for Bank Failures
 
-###https://github.com/jroberge33/portfolio/tree/main/bank_failure_analysis
+Folder: https://github.com/jroberge33/portfolio/tree/main/bank_failure_analysis
 
 #### **Question**: Can a KNN classification model be used to predict whether or not a bank will fail based on the bank's financial data and metrics?
 
