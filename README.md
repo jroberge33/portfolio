@@ -31,6 +31,25 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/weather_metrics_flight
 - Certain weather metrics stood out as more impactful than others on flight delays - all making strong conceptual sense 
 <img src="https://i.ibb.co/x2Jfbmm/Decision-Tree-v2-Feature-Importance.png">
 
+## Catan Game Theory and Outcomes Analysis 
+
+Folder: https://github.com/jroberge33/portfolio/tree/main/catan_analysis
+
+#### **Question**: Can we gain insights into the outcomes and dynamics of the game of Catan from data on game starting positions and outcomes?
+
+#### **Method**: 
+- Analyze and visualize key game metrics, including roll probabilities, frequency of starting placement, and resource gains + losses
+- Utilize multiple ML models to determine whether victory can be predicted based on starting resource and number placements, including `knn Classification` and `logistic regression`
+- Employ `smote oversampling` to address a low count of wins in data as well as `principal component analysis` to address the high number of variables
+
+#### **Analysis**: 
+
+- Underwent multiple iterations in an attempt to increase model performance and refine the model to this dataset and situation
+<img src="https://i.ibb.co/VHFvqDr/Screenshot-2024-01-30-at-11-23-54-PM.png">
+
+-KNN classification model was unable to predict wins given their underrepresentation in the training data -> SMOTE synthetic oversampling rebalanced data set, improved precision and recall
+<img src="https://i.ibb.co/hyt3Qy4/Screenshot-2024-01-30-at-11-31-02-PM.png">
+
 ## KNN Prediction Model for Bank Failures
 
 Folder: https://github.com/jroberge33/portfolio/tree/main/bank_failure_analysis
@@ -68,19 +87,6 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/interview_scheduler
 - Read in data from `SQL` and `Excel`, using `numerous complex data structures` and processes to schedule hundreds of interviews involving over 150 individual parties
 - Effectively control for conflicts of interest, schedule conflicts, diversity of interviewer groups, and time constraints 
 - Output polished and user-friendly schedules to Excel
-
-#### **Analysis**: 
-
-## Catan Game Theory and Outcomes Analysis 
-
-Folder: https://github.com/jroberge33/portfolio/tree/main/catan_analysis
-
-#### **Question**: Can we gain insights into the outcomes and dynamics of the game of Catan from data on game starting positions and outcomes?
-
-#### **Method**: 
-- Analyze and visualize key game metrics, including roll probabilities, frequency of starting placement, and resource gains + losses
-- Utilize multiple ML models to determine whether victory can be predicted based on starting resource and number placements, including `knn Classification` and `logistic regression`
-- Employ `smote oversampling` to address a low count of wins in data as well as `principal component analysis` to address the high number of variables
 
 #### **Analysis**: 
 
