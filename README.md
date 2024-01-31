@@ -1,6 +1,6 @@
 # Personal Portfolio 
 ## About Me
-#### My name is `Jack Roberge`; I am a third year studying `Mathematics and Data Science` at `Northeastern University`, graduating in `December of 2025`. See a few samples of my work so far below!
+#### My name is `Jack Roberge`; I am a third year studying `Mathematics and Data Science` at `Northeastern University`, graduating in `December of 2025`. See a few samples of my work so far below! Stay tuned for my WIP NLP project. 
 
 ## Climate Data and Flight Delay Prediction Model 
 
