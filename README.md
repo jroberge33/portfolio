@@ -15,9 +15,21 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/weather_metrics_flight
 
 #### **Analysis**: 
 
-<img src="https://i.ibb.co/x2Jfbmm/Decision-Tree-v2-Feature-Importance.png">
+- Linear regression was too simplistic of a model in using weather metrics to effectively predict the number of delayed flights
+<img src="https://i.ibb.co/BCBYY45/All-Weather-Metrics-Linear-Regression-Actual-vs-Predicted-Monthly-Flight-Delays.png">
+
+- First decision tree iteration was relatively successful in predicting above or below average monthly flight delays  
+<img src="https://i.ibb.co/hMK3rQF/decision-tree-v1.png" alt="decision-tree-v1">
+
+<img src="https://i.ibb.co/7N0Dkvb/Decision-Tree-v1-Confusion-Matrix.png">
+
+- However, the second decision tree iteration made clear that weather metrics were unable to accurately predict more granularity in the number of flight delays
+<img src="https://i.ibb.co/MVG9mpm/Decision-Tree-v2.png">
 
 <img src="https://i.ibb.co/ncZ6PDz/Decision-Tree-v2-Confusion-Matrix.png">
+
+- Certain weather metrics stood out as more impactful than others on flight delays - all making strong conceptual sense 
+<img src="https://i.ibb.co/x2Jfbmm/Decision-Tree-v2-Feature-Importance.png">
 
 ## KNN Prediction Model for Bank Failures
 
