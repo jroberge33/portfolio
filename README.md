@@ -22,6 +22,10 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/bank_failure_analysis
 #### **Question**: Can a KNN classification model be used to predict whether or not a bank will fail based on the bank's financial data and metrics?
 
 #### **Method**: 
+- Normalize and wrangle bank financial data to merge it with bank failure data
+- Perform `knn classification` and `cross validation` across `accuracy, recall, and precision scores`
+- Choose an ideal k value based on the desired/appropriate scoring metric
+- Produce `confusion matrix heatmap` and visualize performance metrics
 
 #### **Analysis**: 
 
