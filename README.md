@@ -23,7 +23,7 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/weather_metrics_flight
 
 <img src="https://i.ibb.co/7N0Dkvb/Decision-Tree-v1-Confusion-Matrix.png">
 
-- However, the second decision tree iteration made clear that weather metrics were unable to accurately predict more granularity in the number of flight delays
+- However, the second decision tree iteration made clear that weather metrics were unable to accurately predict more granularity in the number of flight delays (groupings of low, moderate, high, very high monthly flight delays)
 <img src="https://i.ibb.co/MVG9mpm/Decision-Tree-v2.png">
 
 <img src="https://i.ibb.co/ncZ6PDz/Decision-Tree-v2-Confusion-Matrix.png">
