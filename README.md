@@ -43,7 +43,7 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/interview_scheduler
 #### **Question**: Can a program be used to schedule interviews for the fraternity's rush process, taking into account diversity in the interviewers; schedules of both interviewers and interviewees; and conflicts of interest between interviewers and interviewees?
 
 #### **Method**: 
-- Read in data from `SQ`L and `Excel`, using `numerous complex data structures` and processes to schedule hundreds of interviews involving over 150 individual parties
+- Read in data from `SQL` and `Excel`, using `numerous complex data structures` and processes to schedule hundreds of interviews involving over 150 individual parties
 - Effectively control for conflicts of interest, schedule conflicts, diversity of interviewer groups, and time constraints 
 - Output polished and user-friendly schedules to Excel
 
