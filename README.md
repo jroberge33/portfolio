@@ -15,7 +15,9 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/weather_metrics_flight
 
 #### **Analysis**: 
 
-<img src = "https://ibb.co/p1JRTWW">
+<img src="https://i.ibb.co/x2Jfbmm/Decision-Tree-v2-Feature-Importance.png">
+
+<img src="https://i.ibb.co/ncZ6PDz/Decision-Tree-v2-Confusion-Matrix.png">
 
 ## KNN Prediction Model for Bank Failures
 
