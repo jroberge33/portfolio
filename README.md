@@ -89,6 +89,36 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/boston_marathon_analys
 
 #### **Analysis**: 
 
+<img src="https://i.ibb.co/kK1qwc0/boston-marathon-normalized-lineplot.png">
+
+<img src="https://i.ibb.co/1Q8pTpW/boston-marathon-linear-regression.png">
+
+## Educational Outcomes and Attainment by Demographic Analysis through the COVID-19 Pandemic
+
+Folder: https://github.com/jroberge33/portfolio/tree/main/pandemic_educational_outcomes_analysis
+
+#### **Question**: Can we produce analytics and visualizations regarding the effect of the COVID-19 pandemic on educational metrics, through the lens of racial groups and states? 
+
+#### **Method**: 
+- Visualize and analyze school enrollment, educational attainment, and test scores to determine how the pandemic impacted educational outcomes
+- Segment data by race, age group, and attainment level to determine whether the pandemic had outsized impacts on certain groups
+- Allow data to be presented for specific states and/or national level 
+
+#### **Analysis**: 
+
+- Significantly higher attainment in white and Asian populations relative to Latino and black populations in both high school and bachelor's degrees
+
+<img src="https://i.ibb.co/RBwKk5p/race-highschool-degree.png">
+<img src="https://i.ibb.co/qJjBHHn/race-bachelors-degree.png">
+
+- Decline in overall school enrollments, with sharp declines in undergraduate and preschool age groups
+
+<img src="https://i.ibb.co/gvXDgts/national-enrollment-change.png">
+  
+- Sharp drop in test scores across all subjects and age groups studied
+
+<img src="https://i.ibb.co/6H4pprM/national-test-scores.png">
+
 ## Delta Sigma Pi Sigma Omega Application Interview Scheduling Code
 
 Folder: https://github.com/jroberge33/portfolio/tree/main/interview_scheduler
@@ -100,20 +130,6 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/interview_scheduler
 - Effectively control for conflicts of interest, schedule conflicts, diversity of interviewer groups, and time constraints 
 - Output polished and user-friendly schedules to Excel
 
-#### **Analysis**: 
-
-## Educational Outcomes and Attainment by Demographic Analysis through the COVID-19 Pandemic
-
-Folder: https://github.com/jroberge33/portfolio/tree/main/pandemic_educational_outcomes_analysis
-
-#### **Question**: Can we produce analytics and visualizations regarding the effect of the COVID-19 pandemic on educational metrics, through the lens of racial groups and states? 
-
-#### **Method**: 
-- Visualize and analyze school enrollment, educational attainment, and test scores to determine how the pandemic impacted educational outcomes
-- Segment data by race, age group, and attainment level to determine whether the pandemic had outsized impacts on certain groups
-
-#### **Analysis**: 
-
 ## Markov Chain Tennis Simulation
 
 Folder: https://github.com/jroberge33/portfolio/tree/main/markov_chains_tennis_analysis
@@ -123,5 +139,3 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/markov_chains_tennis_a
 #### **Method**:
 - Model out probability outcomes based on each serving possibility for each game, set, and overall match using `markov chains` and other `stochastic modeling` concepts 
 - Produce a flexible model that can be easily updated with different probabilities and starting conditions
-
-#### **Analysis**:
