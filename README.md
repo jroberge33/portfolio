@@ -15,6 +15,8 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/weather_metrics_flight
 
 #### **Analysis**: 
 
+<img src = "https://ibb.co/p1JRTWW">
+
 ## KNN Prediction Model for Bank Failures
 
 Folder: https://github.com/jroberge33/portfolio/tree/main/bank_failure_analysis
