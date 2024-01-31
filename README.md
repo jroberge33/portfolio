@@ -32,6 +32,7 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/boston_marathon_analys
 #### **Question**:  
 
 #### **Method**: 
+- 
 
 #### **Analysis**: 
 
@@ -42,6 +43,9 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/interview_scheduler
 #### **Question**: Can a program be used to schedule interviews for the fraternity's rush process, taking into account diversity in the interviewers; schedules of both interviewers and interviewees; and conflicts of interest between interviewers and interviewees?
 
 #### **Method**: 
+- Read in data from `SQ`L and `Excel`, using `numerous complex data structures` and processes to schedule hundreds of interviews involving over 150 individual parties
+- Effectively control for conflicts of interest, schedule conflicts, diversity of interviewer groups, and time constraints 
+- Output polished and user-friendly schedules to Excel
 
 #### **Analysis**: 
 
@@ -77,6 +81,7 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/markov_chains_tennis_a
 #### **Question**: Can we use stochastic processes to simulate a tennis match's outcome based on starting serve and win probabilities?
 
 #### **Method**:
-- 
+- Model out probability outcomes based on each serving possibility for each game, set, and overall match using `markov chains` and other `stochastic modeling` concepts 
+- Produce a flexible model that can be easily updated with different probabilities and starting conditions
 
 #### **Analysis**:
