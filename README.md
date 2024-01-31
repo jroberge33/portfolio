@@ -45,10 +45,10 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/catan_analysis
 #### **Analysis**: 
 
 - Underwent multiple iterations in an attempt to increase model performance and refine the model to this dataset and situation
-- 
+  
 <img src="https://i.ibb.co/VHFvqDr/Screenshot-2024-01-30-at-11-23-54-PM.png">
 
--KNN classification model was unable to predict wins given their underrepresentation in the training data -> SMOTE synthetic oversampling rebalanced data set, improved precision and recall
+- KNN classification model was unable to predict wins given their underrepresentation in the training data -> SMOTE synthetic oversampling rebalanced data set, improved precision and recall
 
 <img src="https://i.ibb.co/hyt3Qy4/Screenshot-2024-01-30-at-11-31-02-PM.png">
 
@@ -67,13 +67,13 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/bank_failure_analysis
 #### **Analysis**: 
 
 - Accuracy, precision and recall metrics each highlight optimal value of k -> model trained on accuracy's optimal k value
-- 
+  
 <img src="https://i.ibb.co/TRFJ7Np/bank-failure-precision-lineplot.png">
 <img src="https://i.ibb.co/6Nf3ddT/bank-failure-recall-lineplot.png">
 <img src="https://i.ibb.co/wgx8WZm/bank-failure-accuracy-lineplot.png">
 
 - Model is very high-performing in predicting bank failures based on key industry financial metrics
-- 
+  
 <img src="https://i.ibb.co/9gp5YpS/bank-failure-heatmap.png">
 
 ## Boston Marathon Linear Regression and Correlation Analysis 
