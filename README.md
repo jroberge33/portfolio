@@ -36,7 +36,9 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/boston_marathon_analys
 #### **Question**:  
 
 #### **Method**: 
-- 
+- Take in data from multiple yearly Boston Marathon data files to identify key race outcomes and metrics
+- Calculate the `correlation` between various variables in the marathon
+- Produce `linear regression model` of average finish time vs years, using said model to interpolate missing data (2020 due to COVID pandemic)
 
 #### **Analysis**: 
 
