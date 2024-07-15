@@ -13,28 +13,23 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/[_________]
 #### **Method**: 
 - Perform `web scraping` on publicly available Library of Congress congressional record data, iterating through hundreds of daily PDFs and aggregating transcript text
 - Clean text data, removing `stopwords` and ensuring word validity
-- 
-- Perform monthly `sentiment analysis` 
-- 
+- Produce frequency and rolling avg frequency graphs for key words/trends of interest to highlight usage and importance over time
+- Perform monthly `sentiment analysis` to determine overall political sentiment trends over time across the entire corpus of congressional transcripts and texts
 
 #### **Analysis**: 
 
-- Linear regression was too simplistic of a model in using weather metrics to effectively predict the number of delayed flights
+- Key trends' frequency and 12-month rolling avg frequency across period of analysis ('ukraine', 'pandemic', 'inflation') showcases trends consistent with current events and documented political trends 
 <img src="https://i.ibb.co/cQ4CB5S/Screenshot-2024-07-15-at-1-58-25-PM.png">
 
 <img src="https://i.ibb.co/gzZVjPj/Screenshot-2024-07-15-at-2-14-11-PM.png">
 
 <img src="https://i.ibb.co/mtfNwdq/Screenshot-2024-07-15-at-2-15-56-PM.png">
 
-- However, the second decision tree iteration made clear that weather metrics were unable to accurately predict more granularity in the number of flight delays (groupings of low, moderate, high, very high monthly flight delays)
-<img src="https://i.ibb.co/MVG9mpm/Decision-Tree-v2.png">
-
-<img src="https://i.ibb.co/ncZ6PDz/Decision-Tree-v2-Confusion-Matrix.png">
+- Sentiment analysis showcases a pointedly downward trend in political sentiment over time, a trend that markedly increased following the 2016 election
+<img src="https://i.ibb.co/fNCDVwP/Screenshot-2024-07-15-at-2-18-23-PM.png">
 
 - Certain weather metrics stood out as more impactful than others on flight delays - all making strong conceptual sense 
 <img src="https://i.ibb.co/x2Jfbmm/Decision-Tree-v2-Feature-Importance.png">
-
-
 
 
 
