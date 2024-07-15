@@ -2,6 +2,42 @@
 ## About Me
 #### My name is `Jack Roberge`; I am a third year studying `Mathematics and Data Science` at `Northeastern University`, graduating in `December of 2025`. See a few samples of my work so far below! 
 
+
+
+## Political Polarization NLP Analysis 
+
+Folder: https://github.com/jroberge33/portfolio/tree/main/[_________]
+
+#### **Question**: Can we use web-scraped daily congressional record transcripts to analyze key political themes as well as political polarization trends over time?
+
+#### **Method**: 
+- Perform `web scraping` 
+- Perform multiple iterations of a `decision tree` model using categorical delay data, to determine if weather metrics can predict higher/lower volumes of delays
+- Perform `knn classification` to predict high/low monthly flight delay volumes to determine if weather metrics can produce more granular predictions of flight delays
+
+#### **Analysis**: 
+
+- Linear regression was too simplistic of a model in using weather metrics to effectively predict the number of delayed flights
+<img src="https://i.ibb.co/BCBYY45/All-Weather-Metrics-Linear-Regression-Actual-vs-Predicted-Monthly-Flight-Delays.png">
+
+- First decision tree iteration was relatively successful in predicting above or below average monthly flight delays  
+<img src="https://i.ibb.co/hMK3rQF/decision-tree-v1.png" alt="decision-tree-v1">
+
+<img src="https://i.ibb.co/7N0Dkvb/Decision-Tree-v1-Confusion-Matrix.png">
+
+- However, the second decision tree iteration made clear that weather metrics were unable to accurately predict more granularity in the number of flight delays (groupings of low, moderate, high, very high monthly flight delays)
+<img src="https://i.ibb.co/MVG9mpm/Decision-Tree-v2.png">
+
+<img src="https://i.ibb.co/ncZ6PDz/Decision-Tree-v2-Confusion-Matrix.png">
+
+- Certain weather metrics stood out as more impactful than others on flight delays - all making strong conceptual sense 
+<img src="https://i.ibb.co/x2Jfbmm/Decision-Tree-v2-Feature-Importance.png">
+
+
+
+
+
+
 ## Climate Data and Flight Delay Prediction Model 
 
 Folder: https://github.com/jroberge33/portfolio/tree/main/weather_metrics_flight_delay_analysis
