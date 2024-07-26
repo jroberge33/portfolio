@@ -6,7 +6,7 @@
 
 ## Political Polarization NLP Analysis 
 
-Folder: https://github.com/jroberge33/portfolio/tree/main/[_________]
+Folder: https://github.com/jroberge33/portfolio/tree/main/political_sentiment_analysis
 
 #### **Question**: Can we use publicly available daily congressional record transcripts to analyze key political themes and political polarization trends over time?
 
@@ -27,11 +27,6 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/[_________]
 
 - Sentiment analysis showcases a pointedly downward trend in political sentiment over time, a trend that markedly increased following the 2016 election
 <img src="https://i.ibb.co/fNCDVwP/Screenshot-2024-07-15-at-2-18-23-PM.png">
-
-- Certain weather metrics stood out as more impactful than others on flight delays - all making strong conceptual sense 
-<img src="https://i.ibb.co/x2Jfbmm/Decision-Tree-v2-Feature-Importance.png">
-
-
 
 
 ## Climate Data and Flight Delay Prediction Model 
