@@ -107,7 +107,7 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/bank_failure_analysis
 
 Folder: https://github.com/jroberge33/portfolio/tree/main/boston_marathon_analysis
 
-#### **Question**:  
+#### **Question**: Can we identify key relationships between finish time and years and employ the resultant model to interpolate missing data and extrapolate future outcomes?
 
 #### **Method**: 
 - Take in data from multiple yearly Boston Marathon data files to identify key race outcomes and metrics
