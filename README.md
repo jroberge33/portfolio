@@ -11,8 +11,12 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/nlp_ai_sentiment
 
 #### **Method**: 
 - Simulate AI-generated responses for 6 different AI models, including Grok, DeepSeek, Claude, ChatGPT, Perplexity, and Gemini for numerous cases
-- > a conservatively slanted response on a political question
-- > asas
+> a simplistically phrased query regarding a political topic with a conservative slant to the query
+> a complexly phrased and wordy query regarding a political topic with a conservative slant to the query 
+> a simplistically phrased query regarding a political topic with a liberal slant to the query 
+> a complexly phrased and wordy query regarding a political topic with a liberal slant to the query
+> a simplistically phrased query regarding a political topic with no political slant
+> a complexly phrased and wordy query regarding a political topic with no political slant  
 - Develop `NLP` text analysis `class`  ComparativeTextAnalysis to ensure modularity and possible application to alternate corpuses
 - Analyze response complexity for each LLM output using `Flesch Grade Level` as a complexity gauge 
 - Produce sentiment comparisons, word length average charts, and word frequency `sankey` diagrams 
