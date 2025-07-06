@@ -10,8 +10,11 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/nlp_ai_sentiment
 #### **Question**: Can we use NLP to discern trends, predominant sentiment, and political biases in various LLMs by analyzing AI-generated output for a controlled set of queries, and does the style and bias of the given query affect the model's output? 
 
 #### **Method**: 
-- Simulate AI-generated responses for 6 different AI models, including Grok, DeepSeek, Claude, ChatGPT, Perplexity, and Gemini
-- Develop `NLP` text analysis `class`  ComparativeTextAnalysis to ensure modularity and possible application to alternate corpuses  
+- Simulate AI-generated responses for 6 different AI models, including Grok, DeepSeek, Claude, ChatGPT, Perplexity, and Gemini for numerous cases
+-     a conservatively slanted response on a political question
+-     asas
+- Develop `NLP` text analysis `class`  ComparativeTextAnalysis to ensure modularity and possible application to alternate corpuses
+- Analyze response complexity for each LLM output using `Flesch Grade Level` as a complexity gauge 
 - Produce sentiment comparisons, word length average charts, and word frequency `sankey` diagrams 
 
 #### **Analysis**: 
