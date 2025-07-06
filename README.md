@@ -91,6 +91,22 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/political_sentiment_an
 <img src="https://i.ibb.co/fNCDVwP/Screenshot-2024-07-15-at-2-18-23-PM.png">
 
 
+## Discrete Random Variable Modeling and the Drake Equation 
+
+Folder: https://github.com/jroberge33/portfolio/tree/main/discrete_random_variable_drake_eq
+
+#### **Question**: Can I develop a discrete random variable modeling class to create an estimate of the number of intelligent and communicating civilizations in our universe using the Drake Equation?  
+
+#### **Method**: 
+- Develop a discrete random variable class that can perform mathematical calculations and manipulation involving normal, uniform, and other discrete random variables 
+- Estimate key scientific values, including the % of planets with life, the chance of a population developing intelligence, the average lifespan of a civilization and more in order to effectively estimate the # of intelligent civilizations in our galaxy via the Drake Equation
+
+#### **Analysis**: 
+
+- Using educated guesses (emphasis on the guessing), my model produced a prediction of just under 9000 communicating extraterrestrial civilizations in our galaxy. 
+<img src="https://i.ibb.co/xSspJKG8/Screenshot-2025-07-06-at-5-41-42-PM.png">
+
+
 ## Climate Data and Flight Delay Prediction Model 
 
 Folder: https://github.com/jroberge33/portfolio/tree/main/weather_metrics_flight_delay_analysis
