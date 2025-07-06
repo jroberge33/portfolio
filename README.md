@@ -57,13 +57,14 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/flight_traffic_dashboa
 #### **Analysis**: 
 
 - Higher movements during summer months to warmer states and the inverse is true during colder months 
-<img src="https://i.ibb.co/KcpZZMLJ/Screenshot-2025-07-06-at-5-28-31-PM.png">
-
-- Weather delays are most common across colder states, as anticipated
 <img src="https://i.ibb.co/007cg4B/Screenshot-2025-07-06-at-5-28-56-PM.png">
 
-- Weather delays on average cause the longest delays for both arrivals and departures, with security delays generally resolved much faster
+- Weather delays are most common across colder states, as anticipated
 <img src="https://i.ibb.co/663SGjQ/Screenshot-2025-07-06-at-5-28-46-PM.png">
+
+- Weather delays on average cause the longest delays for both arrivals and departures, with security delays generally resolved much faster
+<img src="https://i.ibb.co/KcpZZMLJ/Screenshot-2025-07-06-at-5-28-31-PM.png">
+
 
 ## Political Polarization NLP Analysis 
 
