@@ -3,6 +3,29 @@
 #### My name is `Jack Roberge`; I am a fourth year studying `Mathematics and Data Science` at `Northeastern University`, graduating in `December of 2025`. See a few samples of my personal projects thus far below! 
 
 
+## LLM NLP Political Bias Analysis 
+
+Folder: https://github.com/jroberge33/portfolio/tree/main/nlp_ai_sentiment
+
+#### **Question**: Can we use NLP to discern trends, predominant sentiment, and political biases in various LLMs by analyzing AI-generated output for a controlled set of queries, and does the style and bias of the given query affect the model's output? 
+
+#### **Method**: 
+- Simulate AI-generated responses for 6 different AI models, including Grok, DeepSeek, Claude, ChatGPT, Perplexity, and Gemini
+- Develop `NLP` text analysis `class`  ComparativeTextAnalysis to ensure modularity and possible application to alternate corpuses  
+- Produce sentiment comparisons, word length average charts, and word frequency `sankey` diagrams 
+
+#### **Analysis**: 
+
+- Key trends' frequency and 12-month rolling avg frequency across period of analysis ('ukraine', 'pandemic', 'inflation') showcases trends consistent with current events and documented political trends 
+<img src="https://i.ibb.co/cQ4CB5S/Screenshot-2024-07-15-at-1-58-25-PM.png">
+
+<img src="https://i.ibb.co/gzZVjPj/Screenshot-2024-07-15-at-2-14-11-PM.png">
+
+<img src="https://i.ibb.co/mtfNwdq/Screenshot-2024-07-15-at-2-15-56-PM.png">
+
+- Sentiment analysis showcases a pointedly downward trend in political sentiment over time, a trend that markedly increased following the 2016 election
+<img src="https://i.ibb.co/fNCDVwP/Screenshot-2024-07-15-at-2-18-23-PM.png">
+
 
 ## Political Polarization NLP Analysis 
 
