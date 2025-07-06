@@ -42,6 +42,29 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/evolutionary_computing
 - Apply class and evolutionary computing methods in coordination with a Northeastern professor who I supported as a teaching assistant in the spring of 2025. 
 
 
+## Flight Traffic Dashboard 
+
+Folder: https://github.com/jroberge33/portfolio/tree/main/flight_traffic_dashboard
+
+#### **Question**: Can I use publicly available Department of Transportation flight traffic data to develop a multi-tab dashboard analyzing multiple dimensions of flight traffic trends? 
+
+#### **Method**: 
+- Obtain bi-annual data from the Department of Transportation on a host of metrics from hundreds of thousands of flights since 2018
+- Create a flight frequency tab for any desired period(s) and states that produces a sankey diagram of states of origin and destination flight traffic during that period
+- Develop a geographic visualization highlighting cities most frequently experiencing a specified type of delay
+- Produce box plots analyzing average minutes of departure and arrival delays by type of delays for designated states and a specified time period 
+
+#### **Analysis**: 
+
+- Higher movements during summer months to warmer states and the inverse is true during colder months 
+<img src="https://i.ibb.co/KcpZZMLJ/Screenshot-2025-07-06-at-5-28-31-PM.png">
+
+- Weather delays are most common across colder states, as anticipated
+<img src="https://i.ibb.co/007cg4B/Screenshot-2025-07-06-at-5-28-56-PM.png">
+
+- Weather delays on average cause the longest delays for both arrivals and departures, with security delays generally resolved much faster
+<img src="https://i.ibb.co/663SGjQ/Screenshot-2025-07-06-at-5-28-46-PM.png">
+
 ## Political Polarization NLP Analysis 
 
 Folder: https://github.com/jroberge33/portfolio/tree/main/political_sentiment_analysis
