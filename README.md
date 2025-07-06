@@ -17,7 +17,7 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/nlp_ai_sentiment
 #### **Analysis**: 
 
 - Most models' output was notably more complex (gauged by the Flesch Grade Score) and had higher average word lengths when fed a more complexly structured query (notably Grok and Gemini). DeepSeek was a clear exception, where the model's output complexity and word length is largely independent of the query's complexity.  
-<img src="https://i.ibb.co/cQ4CB5S/Screenshot-2024-07-15-at-1-58-25-PM.png">
+<img src="https://i.ibb.co/5gLvzk78/Screenshot-2025-07-06-at-4-05-44-PM.png">
 
 - Sentiment analysis showcases a pointedly downward trend in political sentiment over time, a trend that markedly increased following the 2016 election
 <img src="https://i.ibb.co/fNCDVwP/Screenshot-2024-07-15-at-2-18-23-PM.png">
