@@ -7,7 +7,7 @@
 
 Folder: https://github.com/jroberge33/portfolio/tree/main/nlp_ai_sentiment
 
-#### **Question**: Can we use NLP to discern trends, predominant sentiment, and political biases in various LLMs by analyzing AI-generated output for a controlled set of queries, and does the style and bias of the given query affect the model's output? 
+#### **Question**: Can I use NLP to discern trends, predominant sentiment, and political biases in various LLMs by analyzing AI-generated output for a controlled set of queries, and does the style and bias of the given query affect the model's output? 
 
 #### **Method**: 
 - Simulate AI-generated responses for 6 different AI models, including Grok, DeepSeek, Claude, ChatGPT, Perplexity, and Gemini for numerous query cases (simplistic versus complex, biased versus unbiased, right-leaning political slant versus left-leaning political slant)
@@ -29,12 +29,24 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/nlp_ai_sentiment
 <img src="https://i.ibb.co/cXr6dRTF/Screenshot-2025-07-06-at-4-24-18-PM.png">
 
 
+## Evolutionary Computing Framework and Analysis 
+
+Folder: https://github.com/jroberge33/portfolio/tree/main/evolutionary_computing
+
+#### **Question**: Can I use randomized iterative evolutionary-style computing to better allocate teaching assistants to sections and office hours for an upcoming semester? 
+
+#### **Method**: 
+- Create a generalized `evolutionary computing` class that can perform 'evolution' for any dataset with the given set of 'agents of change' to produce random evolutionary change in the dataset towards an optimized solution
+- Develop `profiler` wrapper to track function calls and timing of evolutionary agents in order to improve efficiency 
+- Create defined evolutionary objectives, including minimal undersupported sections, minimal overscheduled teaching assistants, and minimal unpreferred scheduled sections as well as specific evolutionary randomizers ('agents of change')
+- Apply class and evolutionary computing methods in coordination with a Northeastern professor who I supported as a teaching assistant in the spring of 2025. 
+
 
 ## Political Polarization NLP Analysis 
 
 Folder: https://github.com/jroberge33/portfolio/tree/main/political_sentiment_analysis
 
-#### **Question**: Can we use publicly available daily congressional record transcripts to analyze key political themes and political polarization trends over time?
+#### **Question**: Can I use publicly available daily congressional record transcripts to analyze key political themes and political polarization trends over time?
 
 #### **Method**: 
 - Perform `web scraping` on publicly available Library of Congress congressional record data, iterating through hundreds of daily PDFs and aggregating transcript text
@@ -59,7 +71,7 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/political_sentiment_an
 
 Folder: https://github.com/jroberge33/portfolio/tree/main/weather_metrics_flight_delay_analysis
 
-#### **Question**: Can we use weather metrics from the NOAA to predict flight delays at Logan Airport in Boston, MA?  
+#### **Question**: Can I use weather metrics from the NOAA to predict flight delays at Logan Airport in Boston, MA?  
 
 #### **Method**: 
 - Perform `multivariate linear regression` with continuous quantitative delay data to see whether or not monthly average flight metrics can predict number of flight delays
@@ -88,7 +100,7 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/weather_metrics_flight
 
 Folder: https://github.com/jroberge33/portfolio/tree/main/catan_analysis
 
-#### **Question**: Can we gain insights into the outcomes and dynamics of the game of Catan from data on game starting positions and outcomes?
+#### **Question**: Can I gain insights into the outcomes and dynamics of the game of Catan from data on game starting positions and outcomes?
 
 #### **Method**: 
 - Analyze and visualize key game metrics, including roll probabilities, frequency of starting placement, and resource gains + losses
@@ -133,7 +145,7 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/bank_failure_analysis
 
 Folder: https://github.com/jroberge33/portfolio/tree/main/boston_marathon_analysis
 
-#### **Question**: Can we identify key relationships between finish time and years and employ the resultant model to interpolate missing data and extrapolate future outcomes?
+#### **Question**: Can I identify key relationships between finish time and years and employ the resultant model to interpolate missing data and extrapolate future outcomes?
 
 #### **Method**: 
 - Take in data from multiple yearly Boston Marathon data files to identify key race outcomes and metrics
@@ -150,7 +162,7 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/boston_marathon_analys
 
 Folder: https://github.com/jroberge33/portfolio/tree/main/pandemic_educational_outcomes_analysis
 
-#### **Question**: Can we produce analytics and visualizations regarding the effect of the COVID-19 pandemic on educational metrics, through the lens of racial groups and states? 
+#### **Question**: Can I produce analytics and visualizations regarding the effect of the COVID-19 pandemic on educational metrics, through the lens of racial groups and states? 
 
 #### **Method**: 
 - Visualize and analyze school enrollment, educational attainment, and test scores to determine how the pandemic impacted educational outcomes
@@ -187,7 +199,7 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/interview_scheduler
 
 Folder: https://github.com/jroberge33/portfolio/tree/main/markov_chains_tennis_analysis
 
-#### **Question**: Can we use stochastic processes to simulate a tennis match's outcome based on starting serve and win probabilities?
+#### **Question**: Can I use stochastic processes to simulate a tennis match's outcome based on starting serve and win probabilities?
 
 #### **Method**:
 - Model out probability outcomes based on each serving possibility for each game, set, and overall match using `markov chains` and other `stochastic modeling` concepts 
