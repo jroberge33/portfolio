@@ -25,6 +25,9 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/nlp_ai_sentiment
 - Meanwhile, for other models (notably Gemini), the sentiment of the response changed very little in the face of political bias in the prompt.
 <img src="https://i.ibb.co/hP2KghM/Screenshot-2025-07-06-at-4-23-06-PM.png">
 
+- Politically-biased model inputs produced outputs with word frequencies consistent with the views associated with that political slant.
+<img src="https://i.ibb.co/cXr6dRTF/Screenshot-2025-07-06-at-4-24-18-PM.png">
+
 
 
 ## Political Polarization NLP Analysis 
