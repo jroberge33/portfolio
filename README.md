@@ -5,7 +5,7 @@
 
 ## LLM NLP Political Bias Analysis 
 
-Folder: https://github.com/jroberge33/portfolio/tree/main/nlp_ai_sentiment
+Folder: https://github.com/jroberge33/portfolio/tree/main/nlp_ai_polarization
 
 #### **Question**: Can I use NLP to discern trends, predominant sentiment, and political biases in various LLMs by analyzing AI-generated output for a controlled set of queries, and does the style and bias of the given query affect the model's output? 
 
