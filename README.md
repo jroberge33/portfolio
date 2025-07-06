@@ -16,11 +16,15 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/nlp_ai_sentiment
 
 #### **Analysis**: 
 
-- Most models' output was notably more complex (gauged by the Flesch Grade Score) and had higher average word lengths when fed a more complexly structured query (notably Grok and Gemini). DeepSeek was a clear exception, where the model's output complexity and word length is largely independent of the query's complexity.  
+- Most models' output was notably more complex (gauged by the Flesch Grade Score) and had higher average word lengths when fed a more complexly structured query (notably Grok and Gemini). DeepSeek was a clear exception, where the model's output complexity and word length are largely independent of the query's complexity.  
 <img src="https://i.ibb.co/5gLvzk78/Screenshot-2025-07-06-at-4-05-44-PM.png">
 
-- Sentiment analysis showcases a pointedly downward trend in political sentiment over time, a trend that markedly increased following the 2016 election
-<img src="https://i.ibb.co/fNCDVwP/Screenshot-2024-07-15-at-2-18-23-PM.png">
+- The output content of certain models (DeepSeek, Claude, and Grok) was more easily swayed politically than for other models based on the political slant of the prompt. With the prompt being one a conservative would respond positively to and a liberal negatively to, the sentiment was used to gauge political slant. Here, the bias of the prompt has a stark effect on the sentiment of the output. 
+<img src="https://i.ibb.co/R47cSKbV/Screenshot-2025-07-06-at-4-18-49-PM.png">
+
+- Meanwhile, for other models (notably Gemini), the sentiment of the response changed very little in the face of political bias in the prompt.
+<img src="https://i.ibb.co/hP2KghM/Screenshot-2025-07-06-at-4-23-06-PM.png">
+
 
 
 ## Political Polarization NLP Analysis 
