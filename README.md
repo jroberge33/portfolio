@@ -26,7 +26,7 @@ Folder: https://github.com/jroberge33/portfolio/tree/main/nlp_ai_polarization
 <img src="https://i.ibb.co/hP2KghM/Screenshot-2025-07-06-at-4-23-06-PM.png">
 
 - Politically-biased model inputs produced outputs with word frequencies consistent with the views associated with that political slant.
-<img src="https://i.ibb.co/cXr6dRTF/Screenshot-2025-07-06-at-4-24-18-PM.png">
+<img src="https://i.ibb.co/jkKYdmDV/Screenshot-2025-07-06-at-4-24-18-PM.png">
 
 
 ## Evolutionary Computing Framework and Analysis 
